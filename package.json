@@ -1,0 +1,20 @@
+{
+  "name": "vue3",
+  "version": "0.0.1",
+  "description": "Buliding vue3 for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyunhai210/vue3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyunhai210/vue3/issues"
+  },
+  "homepage": "https://github.com/zhangyunhai210/vue3#readme"
+}
